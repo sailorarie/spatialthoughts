@@ -1,0 +1,2 @@
+# spatialthoughts
+Projects for spatialthoughts
